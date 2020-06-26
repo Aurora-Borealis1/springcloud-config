@@ -1,4 +1,4 @@
 server.port:
   8888
 config: 
-  info:"mater branch,springcloud-config/config-dev.yml version = 1"
+  info: "mater branch,springcloud-config/config-dev.yml version = 1"
